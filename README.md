@@ -1,1 +1,1 @@
-# maths-as-kinematics
+# maths-1-kinematics
